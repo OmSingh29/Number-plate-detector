@@ -1,5 +1,7 @@
 # Car-Number-Plates-Detection
 
+It detects number plates from the webcam feed and saves them in the 'plates' folder
+
 To run the script:
 
 1. First run the command:
