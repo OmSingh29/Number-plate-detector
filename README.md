@@ -6,7 +6,7 @@ To run the script:
 
 1. First run the command:
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 2. Then run the command:
 ```
